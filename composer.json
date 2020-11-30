@@ -5,7 +5,7 @@
         "psr-4": {"Brucep\\Twig\\ConditionalLink\\": "src/"}
     },
     "require": {
-        "php": "^7.1",
+        "php": ">=7.1",
         "twig/twig": "^2.12|^3.0"
     },
     "suggest": {
